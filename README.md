@@ -19,8 +19,8 @@ Each project demonstrates my understanding of core ML concepts, data preprocessi
 
 ---
 
-## 🧩 Tools & Technologies
-- Python 🐍  
+##  Tools & Technologies
+- Python 
 - NumPy, Pandas  
 - Scikit-learn  
 - Matplotlib, Seaborn  
